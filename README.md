@@ -1,2 +1,2 @@
 # Encryption
-This project provides a simple yet effective Java implementation of an encryption and decryption system using a dictionary mapping approach. Ideal for educational purposes or lightweight applications, it demonstrates how custom dictionaries can be used to transform plaintext into encoded messages and back.
+This project provides a simple yet effective Java implementation of an encryption and decryption system using a dictionary mapping approach. Ideal for lightweight applications, it demonstrates how custom dictionaries can be used to transform plaintext into encoded messages and back. A hybrid data structure which combines Linked Lists and HashMaps to create a list where each element is a node pointing to other elements was implemented.
